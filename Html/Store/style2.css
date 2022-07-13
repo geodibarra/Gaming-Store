@@ -1,0 +1,17 @@
+.btn{
+    display: inline-block;
+    background: rgba(60, 0, 255, 0.808);
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+  }
+  
+  .btn:hover{
+    background: gold;
+  }
+
+.p{
+    color: #212122;
+}
